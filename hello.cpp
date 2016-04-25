@@ -1,6 +1,6 @@
 #include <iostream>
+#include <cstdio>
 #include "functions.h"
-#include "cstdio.h"
 
 using namespace std;
 void print_hello(){
