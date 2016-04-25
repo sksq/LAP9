@@ -1,6 +1,6 @@
+#include <cstdio>
 #include <iostream>
 #include "functions.h"
-#include "cstdio.h"
 
 using namespace std;
 int main(){
